@@ -30,11 +30,11 @@
         "betaUrl": "https://makecode.com/",
         "docMenu": [
             {
-                "name": "关于",
+                "name": "About",
                 "path": "/about"
             },
             {
-                "name": "文档",
+                "name": "Docs",
                 "path": "/docs"
             }
         ],
